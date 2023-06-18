@@ -1,0 +1,53 @@
+/* Navigation Bar Styles */
+
+/* CSS untuk header yang disembunyikan */
+/* Navigation.css */
+.hidden {
+  transform: translateY(-100%);
+  transition: transform 0.3s ease-out;
+}
+
+/* Tambahkan CSS berikut */
+.navbar {
+  transition: transform 0.3s ease-out;
+  background-color: #343a40;
+  padding: 10px 20px;
+}
+
+  .navbar-brand {
+    color: #fff;
+    font-size: 24px;
+  }
+  
+  .navbar-nav .nav-link {
+    color: #fff;
+    font-size: 16px;
+    margin-right: 10px;
+  }
+  
+  .navbar-nav .nav-link:hover,
+  .navbar-nav .nav-link:focus {
+    color: #17a2b8;
+  }
+  
+  /* Active Nav Link Styles */
+  .navbar-nav .active .nav-link {
+    color: #17a2b8;
+  }
+  
+  /* Responsive Styles */
+  @media (max-width: 767px) {
+    .navbar-toggler {
+      border-color: #fff;
+    }
+  
+  
+  
+    .navbar-nav {
+      margin-top: 10px;
+    }
+  
+    .navbar-nav .nav-link {
+      margin-bottom: 10px;
+    }
+  }
