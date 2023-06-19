@@ -1,0 +1,12 @@
+[
+    {"ICAO24 A": "7cae0f", "ICAO24 B": "7chdf3", "Jarak": 4.377, "Kecepatan Relatif (Vs)": 44.07465910749079, "Kecepatan Vertikal Relatif (Vu)": -25.831697702012548, "TCPA": 0.06261233169291656, "PRA": 0.0015682597164957794},
+    {"ICAO24 A": "7b6e0b", "ICAO24 B": "7g6dfb", "Jarak": 0.039, "Kecepatan Relatif (Vs)": 66.00709540568023, "Kecepatan Vertikal Relatif (Vu)": 56.20794451023694, "TCPA": 0.0039799366716697275, "PRA": 0.001670001635120374}, 
+    {"ICAO24 A": "iop872", "ICAO24 B": "iop879", "Jarak": 0.007, "Kecepatan Relatif (Vs)": 0.0, "Kecepatan Vertikal Relatif (Vu)": 0.0, "TCPA": 0, "PRA": 0},
+    {"ICAO24 A": "iyuy10", "ICAO24 B": "iyuy18", "Jarak": 0.051, "Kecepatan Relatif (Vs)": 22.058324190650385, "Kecepatan Vertikal Relatif (Vu)": 15.150403652187975, "TCPA": 0.007382829567311694, "PRA": 0.007781043451760886},
+    {"ICAO24 A": "iyuy11", "ICAO24 B": "iyuy16", "Jarak": 0.334, "Kecepatan Relatif (Vs)": 66.00709540568025, "Kecepatan Vertikal Relatif (Vu)": 26.19343128885359, "TCPA": 0.008389079664206035, "PRA": 2.0005448343059008116}, 
+    {"ICAO24 A": "iyuy11", "ICAO24 B": "iyuy17", "Jarak": 0.508, "Kecepatan Relatif (Vs)": 0.0, "Kecepatan Vertikal Relatif (Vu)": 0.0, "TCPA": 0, "PRA": 0}, 
+    {"ICAO24 A": "iyuy12", "ICAO24 B": "iyuy14", "Jarak": 1.583, "Kecepatan Relatif (Vs)": 44.074659107490696, "Kecepatan Vertikal Relatif (Vu)": 19.238049088263836, "TCPA": 0.06373655659023297, "PRA": 2.00127188189919089}, 
+    {"ICAO24 A": "iyuy12", "ICAO24 B": "iyuy19", "Jarak": 1.586, "Kecepatan Relatif (Vs)": 0.0, "Kecepatan Vertikal Relatif (Vu)": 0.0, "TCPA": 0, "PRA": 0}, 
+    {"ICAO24 A": "iyuy14", "ICAO24 B": "iyuy19", "Jarak": 0.004, "Kecepatan Relatif (Vs)": 44.074659107490696, "Kecepatan Vertikal Relatif (Vu)": -19.238049088263836, "TCPA": 6.31784694414355e-05, "PRA": 2.00127188189919089}, 
+    {"ICAO24 A": "iyuy16", "ICAO24 B": "iyuy17", "Jarak": 0.652, "Kecepatan Relatif (Vs)": 66.00709540568025, "Kecepatan Vertikal Relatif (Vu)": -26.19343128885359, "TCPA": 0.0070715431177537326, "PRA": 2.0005448343059008116}
+]

@@ -12,12 +12,6 @@ const Maps = (props) => (
 );
 
 
-const HowToUse = (props) => (
-  <LinkContainer to="/HowToUse">
-    <Nav.Link eventKey="HowTouse" onSelect={props.navigationToggle}>How To Use</Nav.Link>
-  </LinkContainer>
-);
-
 const Navigation = (props) => {
   const [showHeader, setShowHeader] = useState(true);
 
@@ -58,7 +52,6 @@ const Navigation = (props) => {
       <Navbar.Collapse id="navbar">
         <Nav className="ml-auto">
           <Maps navigationToggle={props.navigationToggle} />
-          <HowToUse navigationToggle={props.navigationToggle} />
         </Nav>
       </Navbar.Collapse>
     </Navbar>

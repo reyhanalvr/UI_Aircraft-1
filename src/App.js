@@ -9,7 +9,6 @@ class App extends Component {
     return (
       <Layout>
         <Route path="/Maps" exact component={MapLayout} />
-        <Route path="/HowToUse" exact component = {HowToUse} />
       </Layout>
     );
   }
