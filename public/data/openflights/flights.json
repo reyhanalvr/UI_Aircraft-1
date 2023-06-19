@@ -1,364 +1,364 @@
 {
-  "flights": [
-    {
-      "heading": 212.56,
-      "icao24": "7c6e0f",
-      "latitude": 43.449928,
-      "longitude": 39.956589
-    },
-    {
-      "heading": 177.25,
-      "icao24": "7c6e0b",
-      "latitude": 13.7563,
-      "longitude": 100.5018
-    },
-    {
-      "heading": 200.97,
-      "icao24": "7c6e07",
-      "latitude": 25.0320,
-      "longitude": 121.5654
-    },
-    {
-      "heading": 200.88,
-      "icao24": "7c6e03",
-      "latitude": 22.3964,
-      "longitude": 114.1095
-    },
-    {
-      "heading": 210.88,
-      "icao24": "7c6dff",
-      "latitude": 37.5665,
-      "longitude": 126.9780
-    },
-    {
-      "heading": 240.88,
-      "icao24": "7c6dfb",
-      "latitude": 23.8103,
-      "longitude": 90.4125
-    },
-    {
-      "heading": 235.88,
-      "icao24": "7c6df7",
-      "latitude": 19.0760,
-      "longitude": 72.8777
-    },
-    {
-      "heading": 220.88,
-      "icao24": "7c6df3",
-      "latitude": 34.6937,
-      "longitude": 135.5023
-    },
-    {
-      "heading": 220.88,
-      "icao24": "7c6def",
-      "latitude": 31.9686,
-      "longitude": 99.9018
-    },
-    {
-      "heading": 240.88,
-      "icao24": "7c6deb",
-      "latitude": 6.9271,
-      "longitude": 79.8612
-    },
-    {
-      "heading": 130.88,
-      "icao24": "7cae0f",
-      "latitude": 37.7749,
-      "longitude": -122.4194
-    },
-    {
-      "heading":  146.87,
-      "icao24": "7cbe0b",
-      "latitude": 19.4326,
-      "longitude": -99.1332
-    },
-    {
-      "heading": 155.88,
-      "icao24": "7cce07",
-      "latitude": 40.7128,
-      "longitude": -74.0060
-    },
-    {
-      "heading": 20.88,
-      "icao24": "7cde03",
-      "latitude": -34.6037,
-      "longitude": -58.3816
-    },
-    {
-      "heading": 155.88,
-      "icao24": "7cedff",
-      "latitude": 45.4215,
-      "longitude": -75.6906
-    },
-    {
-      "heading": 30.88,
-      "icao24": "7cfdfb",
-      "latitude": -23.5505,
-      "longitude": -46.6333
-    },
-    {
-      "heading": 130.88,
-      "icao24": "7cgdf7",
-      "latitude": 25.7617,
-      "longitude": -80.1918
-    },
-    {
-      "heading": 120.88,
-      "icao24": "7chdf3",
-      "latitude": 37.3363,
-      "longitude": -121.8907
-    },
-    {
-      "heading": 120,
-      "icao24": "7cidef",
-      "latitude": 47.6062,
-      "longitude": -122.3321
-    },
-    {
-      "heading": 130.88,
-      "icao24": "7cjdeb",
-      "latitude": 43.6532,
-      "longitude": -79.3832
-    },
-    {
-      "heading": 220.88,
-      "icao24": "1c6e0f",
-      "latitude": 48.8566,
-      "longitude": 2.3522
-    },
-    {
-      "heading": 170.88,
-      "icao24": "2c6e0b",
-      "latitude": 51.5074,
-      "longitude": -0.1278
-    },
-    {
-      "heading": 210.88,
-      "icao24": "3c6e07",
-      "latitude": 55.7558,
-      "longitude": 37.6176
-    },
-    {
-      "heading": 220.88,
-      "icao24": "4c6e03",
-      "latitude": 52.5200,
-      "longitude": 13.4050
-    },
-    {
-      "heading": 224.88,
-      "icao24": "5c6dff",
-      "latitude": 41.9028,
-      "longitude": 12.4964
-    },
-    {
-      "heading": 155.88,
-      "icao24": "6c6dfb",
-      "latitude": 40.4168,
-      "longitude": -3.7038
-    },
-    {
-      "heading": 213.88,
-      "icao24": "8c6df7",
-      "latitude": 41.3851,
-      "longitude": 2.1734
-    },
-    {
-      "heading": 213.88,
-      "icao24": "9c6df3",
-      "latitude": 59.3293,
-      "longitude": 18.0686
-    },
-    {
-      "heading": 212.88,
-      "icao24": "ac6def",
-      "latitude": 48.2082,
-      "longitude": 16.3738
-    },
-    {
-      "heading": 208.88,
-      "icao24": "bc6deb",
-      "latitude": 45.4642,
-      "longitude": 9.1900
-    },
-    {
-      "heading": 320.88,
-      "icao24": "7a6e0f",
-      "latitude": -26.2041,
-      "longitude": 28.0473
-    },
-    {
-      "heading": 335.88,
-      "icao24": "7b6e0b",
-      "latitude": -33.9249,
-      "longitude": 18.4241
-    },
-    {
-      "heading": 310.88,
-      "icao24": "7d6e07",
-      "latitude": -1.2864,
-      "longitude": 36.8172
-    },
-    {
-      "heading": 310.88,
-      "icao24": "7e6e03",
-      "latitude": -4.4419,
-      "longitude": 15.2663
-    },
-    {
-      "heading": 230.88,
-      "icao24": "7f6dff",
-      "latitude": 6.5244,
-      "longitude": 3.3792
-    },
-    {
-      "heading": 320.88,
-      "icao24": "7g6dfb",
-      "latitude": -33.9189,
-      "longitude": 18.4232
-    },
-    {
-      "heading": 310.88,
-      "icao24": "7h6df7",
-      "latitude": -6.7924,
-      "longitude": 39.2083
-    },
-    {
-      "heading": 315.88,
-      "icao24": "7i6df3",
-      "latitude": -33.9689,
-      "longitude": 25.6022
-    },
-    {
-      "heading": 220.88,
-      "icao24": "7j6def",
-      "latitude": 12.9716,
-      "longitude": 77.5946
-    },
-    {
-      "heading": 320.88,
-      "icao24": "7k6deb",
-      "latitude": -29.6099,
-      "longitude": 28.2336
-    },
-    {
-      "heading": 340.88,
-      "icao24": "iop876",
-      "latitude": -37.8136,
-      "longitude": 144.9631
-    },
-    {
-      "heading": 325.88,
-      "icao24": "iop871",
-      "latitude": -33.8679,
-      "longitude": 151.2073
-    },
-    {
-      "heading": 300.88,
-      "icao24": "iop872",
-      "latitude": -27.4705,
-      "longitude": 153.0260
-    },
-    {
-      "heading": 320.88,
-      "icao24": "iop873",
-      "latitude": -35.2809,
-      "longitude": 149.1300
-    },
-    {
-      "heading": 325.88,
-      "icao24": "iop874",
-      "latitude": -31.9505,
-      "longitude": 115.8605
-    },
-    {
-      "heading": 320.88,
-      "icao24": "iop875",
-      "latitude": -42.8821,
-      "longitude": 147.3272
-    },
-    {
-      "heading": 290.88,
-      "icao24": "iop877",
-      "latitude": -19.2576,
-      "longitude": 146.8179
-    },
-    {
-      "heading": 300.88,
-      "icao24": "iop878",
-      "latitude": -12.4634,
-      "longitude": 130.8456
-    },
-    {
-      "heading": 300.88,
-      "icao24": "iop879",
-      "latitude": -27.4698,
-      "longitude": 153.0251
-    },
-    {
-      "heading": 320.88,
-      "icao24": "iop870",
-      "latitude": -34.9285,
-      "longitude": 138.6007
-    },
-    {
-      "heading": 315.88,
-      "icao24": "iyuy10",
-      "latitude": -6.1745,
-      "longitude": 106.8227
-    },
-    {
-      "heading": 300.88,
-      "icao24": "iyuy11",
-      "latitude": -7.2761,
-      "longitude": 112.7967
-    },
-    {
-      "heading": 300.88,
-      "icao24": "iyuy12",
-      "latitude": -8.4095,
-      "longitude": 115.1889
-    },
-    {
-      "heading": 290.88,
-      "icao24": "iyuy13",
-      "latitude": -6.9175,
-      "longitude": 107.6098
-    },
-    {
-      "heading": 290.88,
-      "icao24": "iyuy14",
-      "latitude": -8.6525,
-      "longitude": 115.1372
-    },
-    {
-      "heading": 300.88,
-      "icao24": "iyuy15",
-      "latitude": -6.9719,
-      "longitude": 110.4250
-    },
-    {
-      "heading": 285.88,
-      "icao24": "iyuy16",
-      "latitude": -7.2508,
-      "longitude": 112.7508
-    },
-    {
-      "heading": 300.88,
-      "icao24": "iyuy17",
-      "latitude": -7.3513,
-      "longitude": 112.7703
-    },
-    {
-      "heading": 310.88,
-      "icao24": "iyuy18",
-      "latitude": -6.1765,
-      "longitude": 106.8304
-    },
-    {
-      "heading": 300.88,
-      "icao24": "iyuy19",
-      "latitude": -8.6529,
-      "longitude": 115.1368
-    }
-  ]
-}
+    "flights": [
+      {
+        "heading": 192.56,
+        "icao24": "7c6e0f",
+        "latitude": 43.449928,
+        "longitude": 39.956589
+      },
+      {
+        "heading": 147.25,
+        "icao24": "7c6e0b",
+        "latitude": 13.7563,
+        "longitude": 100.5018
+      },
+      {
+        "heading": 220.97,
+        "icao24": "7c6e07",
+        "latitude": 25.0320,
+        "longitude": 121.5654
+      },
+      {
+        "heading": 240.88,
+        "icao24": "7c6e03",
+        "latitude": 22.3964,
+        "longitude": 114.1095
+      },
+      {
+        "heading": 233.88,
+        "icao24": "7c6dff",
+        "latitude": 37.5665,
+        "longitude": 126.9780
+      },
+      {
+        "heading": 250.88,
+        "icao24": "7c6dfb",
+        "latitude": 23.8103,
+        "longitude": 90.4125
+      },
+      {
+        "heading": 250.88,
+        "icao24": "7c6df7",
+        "latitude": 19.0760,
+        "longitude": 72.8777
+      },
+      {
+        "heading": 243.88,
+        "icao24": "7c6df3",
+        "latitude": 34.6937,
+        "longitude": 135.5023
+      },
+      {
+        "heading": 240.88,
+        "icao24": "7c6def",
+        "latitude": 31.9686,
+        "longitude": 99.9018
+      },
+      {
+        "heading": 233.88,
+        "icao24": "7c6deb",
+        "latitude": 6.9271,
+        "longitude": 79.8612
+      },
+      {
+        "heading": 145.88,
+        "icao24": "7cae0f",
+        "latitude": 37.7749,
+        "longitude": -122.4194
+      },
+      {
+        "heading":  146.87,
+        "icao24": "7cbe0b",
+        "latitude": 19.4326,
+        "longitude": -99.1332
+      },
+      {
+        "heading": 155.88,
+        "icao24": "7cce07",
+        "latitude": 40.7128,
+        "longitude": -74.0060
+      },
+      {
+        "heading": 45.88,
+        "icao24": "7cde03",
+        "latitude": -34.6037,
+        "longitude": -58.3816
+      },
+      {
+        "heading": 155.88,
+        "icao24": "7cedff",
+        "latitude": 45.4215,
+        "longitude": -75.6906
+      },
+      {
+        "heading": 45.88,
+        "icao24": "7cfdfb",
+        "latitude": -23.5505,
+        "longitude": -46.6333
+      },
+      {
+        "heading": 130.88,
+        "icao24": "7cgdf7",
+        "latitude": 25.7617,
+        "longitude": -80.1918
+      },
+      {
+        "heading": 145.88,
+        "icao24": "7chdf3",
+        "latitude": 37.3363,
+        "longitude": -121.8907
+      },
+      {
+        "heading": 150,
+        "icao24": "7cidef",
+        "latitude": 47.6062,
+        "longitude": -122.3321
+      },
+      {
+        "heading": 130.88,
+        "icao24": "7cjdeb",
+        "latitude": 43.6532,
+        "longitude": -79.3832
+      },
+      {
+        "heading": 220.88,
+        "icao24": "1c6e0f",
+        "latitude": 48.8566,
+        "longitude": 2.3522
+      },
+      {
+        "heading": 170.88,
+        "icao24": "2c6e0b",
+        "latitude": 51.5074,
+        "longitude": -0.1278
+      },
+      {
+        "heading": 210.88,
+        "icao24": "3c6e07",
+        "latitude": 55.7558,
+        "longitude": 37.6176
+      },
+      {
+        "heading": 220.88,
+        "icao24": "4c6e03",
+        "latitude": 52.5200,
+        "longitude": 13.4050
+      },
+      {
+        "heading": 224.88,
+        "icao24": "5c6dff",
+        "latitude": 41.9028,
+        "longitude": 12.4964
+      },
+      {
+        "heading": 155.88,
+        "icao24": "6c6dfb",
+        "latitude": 40.4168,
+        "longitude": -3.7038
+      },
+      {
+        "heading": 213.88,
+        "icao24": "8c6df7",
+        "latitude": 41.3851,
+        "longitude": 2.1734
+      },
+      {
+        "heading": 213.88,
+        "icao24": "9c6df3",
+        "latitude": 59.3293,
+        "longitude": 18.0686
+      },
+      {
+        "heading": 212.88,
+        "icao24": "ac6def",
+        "latitude": 48.2082,
+        "longitude": 16.3738
+      },
+      {
+        "heading": 208.88,
+        "icao24": "bc6deb",
+        "latitude": 45.4642,
+        "longitude": 9.1900
+      },
+      {
+        "heading": 320.88,
+        "icao24": "7a6e0f",
+        "latitude": -26.2041,
+        "longitude": 28.0473
+      },
+      {
+        "heading": 315.88,
+        "icao24": "7b6e0b",
+        "latitude": -33.9249,
+        "longitude": 18.4241
+      },
+      {
+        "heading": 310.88,
+        "icao24": "7d6e07",
+        "latitude": -1.2864,
+        "longitude": 36.8172
+      },
+      {
+        "heading": 310.88,
+        "icao24": "7e6e03",
+        "latitude": -4.4419,
+        "longitude": 15.2663
+      },
+      {
+        "heading": 230.88,
+        "icao24": "7f6dff",
+        "latitude": 6.5244,
+        "longitude": 3.3792
+      },
+      {
+        "heading": 320.88,
+        "icao24": "7g6dfb",
+        "latitude": -33.9189,
+        "longitude": 18.4232
+      },
+      {
+        "heading": 310.88,
+        "icao24": "7h6df7",
+        "latitude": -6.7924,
+        "longitude": 39.2083
+      },
+      {
+        "heading": 290.88,
+        "icao24": "7i6df3",
+        "latitude": -33.9689,
+        "longitude": 25.6022
+      },
+      {
+        "heading": 220.88,
+        "icao24": "7j6def",
+        "latitude": 12.9716,
+        "longitude": 77.5946
+      },
+      {
+        "heading": 320.88,
+        "icao24": "7k6deb",
+        "latitude": -29.6099,
+        "longitude": 28.2336
+      },
+      {
+        "heading": 330.88,
+        "icao24": "iop876",
+        "latitude": -37.8136,
+        "longitude": 144.9631
+      },
+      {
+        "heading": 355.88,
+        "icao24": "iop871",
+        "latitude": -33.8679,
+        "longitude": 151.2073
+      },
+      {
+        "heading": 270.88,
+        "icao24": "iop872",
+        "latitude": -27.4705,
+        "longitude": 153.0260
+      },
+      {
+        "heading": 320.88,
+        "icao24": "iop873",
+        "latitude": -35.2809,
+        "longitude": 149.1300
+      },
+      {
+        "heading": 325.88,
+        "icao24": "iop874",
+        "latitude": -31.9505,
+        "longitude": 115.8605
+      },
+      {
+        "heading": 270.88,
+        "icao24": "iop875",
+        "latitude": -42.8821,
+        "longitude": 147.3272
+      },
+      {
+        "heading": 335.88,
+        "icao24": "iop877",
+        "latitude": -19.2576,
+        "longitude": 146.8179
+      },
+      {
+        "heading": 320.88,
+        "icao24": "iop878",
+        "latitude": -12.4634,
+        "longitude": 130.8456
+      },
+      {
+        "heading": 320.88,
+        "icao24": "iop879",
+        "latitude": -27.4698,
+        "longitude": 153.0251
+      },
+      {
+        "heading": 320.88,
+        "icao24": "iop870",
+        "latitude": -34.9285,
+        "longitude": 138.6007
+      },
+      {
+        "heading": 315.88,
+        "icao24": "iyuy10",
+        "latitude": -6.1745,
+        "longitude": 106.8227
+      },
+      {
+        "heading": 315.88,
+        "icao24": "iyuy11",
+        "latitude": -7.2761,
+        "longitude": 112.7967
+      },
+      {
+        "heading": 315.88,
+        "icao24": "iyuy12",
+        "latitude": -8.4095,
+        "longitude": 115.1889
+      },
+      {
+        "heading": 313.88,
+        "icao24": "iyuy13",
+        "latitude": -6.9175,
+        "longitude": 107.6098
+      },
+      {
+        "heading": 310.88,
+        "icao24": "iyuy14",
+        "latitude": -8.6525,
+        "longitude": 115.1372
+      },
+      {
+        "heading": 315.88,
+        "icao24": "iyuy15",
+        "latitude": -6.9719,
+        "longitude": 110.4250
+      },
+      {
+        "heading": 315.88,
+        "icao24": "iyuy16",
+        "latitude": -7.2508,
+        "longitude": 112.7508
+      },
+      {
+        "heading": 315.88,
+        "icao24": "iyuy17",
+        "latitude": -7.3513,
+        "longitude": 112.7703
+      },
+      {
+        "heading": 320.88,
+        "icao24": "iyuy18",
+        "latitude": -6.1765,
+        "longitude": 106.8304
+      },
+      {
+        "heading": 315.88,
+        "icao24": "iyuy19",
+        "latitude": -8.6529,
+        "longitude": 115.1368
+      }
+    ]
+  }
